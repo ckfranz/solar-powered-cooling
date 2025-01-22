@@ -2,4 +2,4 @@
 
 # Automated Solar Powered Cooling
 
-The course project involved designing a solar tracking solar cell-powered fan cooling system.
+The course project involved designing a prototype for a solar tracking solar cell-powered fan cooling system.
